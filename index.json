@@ -1,0 +1,78 @@
+{
+    "home": [
+        {
+            "title": " Aspiring Full Stack Developer"
+        }
+    ],
+    "about": [
+        "I am a highly motivated and dedicated web developer with a passion for coding and technology. With my Higher Certificate, Diploma, and Advanced Diploma in ICT, as well as my additional studies at Life Choices Coding Academy, I have honed my skills in front-end development and multimedia applications.",
+        "My commitment to learning and improving my skills makes me a valuable asset to any team, and I am excited to bring my expertise to new and challenging projects."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2019,
+            "description": "Graduated Higher Certificate in IT",
+            "place": "Cape Peninsula University of Technology",
+            "type": "Higher Certificate"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "Graduated Diploma in IT",
+            "place": "Cape Peninsula University of Technology",
+            "type": "Diploma"
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "description": "Advanced Diploma in IT",
+            "place": "Cape Peninsula University of Technology",
+            "type": "Advanced Diploma"
+        }
+
+    ],
+    "skills": [
+        {
+            "title": "HTML",
+            "experience": "I have been doing HTML since High School and have been continuously developing this skill"
+        },
+        {
+            "title": "CSS",
+            "experience": "I started learning CSS in High School. CSS is one of my Skills that I really enjoy using."
+        },
+        {
+            "title": "JavaScript",
+            "experience": "I started Learning JavaScript at University when I started with my Diploma in ICT."
+        },
+        {
+            "title": "REACT",
+            "experience": "I really enjoy using JavaScript Frameworks. React is one of my Favourite Frameworks"
+        },
+        {
+            "title": "VUE",
+            "experience": "My first Encounter with Vue was with an Assignment while studying at University."
+        },
+        {
+            "title": "NodeJs",
+            "experience": "I used NodeJs with MongoDB to create a JSON token appliication as an Assignment."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Warren",
+            "surname": "Jaftha",
+            "quotes": "Studying alongside Corné for 5 years has been a privilege. His dedication and passion for IT are remarkable",
+            "profile": ""
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "",
+            "gitHub": "https://github.com/Kortekz/To-Do-List.git",
+            "netlify": "https://corne-to-do-list.netlify.app"
+        }
+    ]
+}
