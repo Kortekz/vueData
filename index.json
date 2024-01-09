@@ -1,7 +1,10 @@
 {
     "home": [
         {
-            "title": " Aspiring Full Stack Developer"
+            "Name": "Corné Balie",
+            "title": " Aspiring Full Stack Developer",
+            "description": "I am a Developer with a passion for problem-solving and collaboration. I'm Committed to finding respectful and efficient solutions to any challenge.",
+            "image": ""
         }
     ],
     "about": [
