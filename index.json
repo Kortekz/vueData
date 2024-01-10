@@ -63,19 +63,82 @@
     ],
     "testimonials": [
         {
-            "name": "Warren",
-            "surname": "Jaftha",
+            "title": "Testimonials",
+            "description": "This is where you can see what others say about me!"
+        },
+        {
+            "fullName": "Warren Jaftha",
             "quotes": "Studying alongside Corné for 5 years has been a privilege. His dedication and passion for IT are remarkable",
-            "profile": ""
+            "profile": "https://drive.google.com/uc?id=1yw4diBC6KYX5XM_IxbsCMq6lYjMZpChw"
+        },
+        {
+            "fullName": "Muhammed Rajah",
+            "quotes": "Corné is outstanding. He is extremely competitive and always striving to be the best. He is a true friend who always pushes those around him to aim higher and to keep up with him. The potential on this guy is limitless",
+            "profile": "https://drive.google.com/uc?id=1TQwvDdHAT8_YJboWm3FxVxFqp2nuyZ0s"
+        },
+        {
+            "fullName": "Khwezilomso Mbobo",
+            "quotes": "Corné Balie is a driven, reliable and Intelligent young individual. His cool headed demeanor and technical expertise make him a vital asset in any situation as well as his radiant confidence which inspires others around him, as they know that with him at their side success is assured.",
+            "profile": "https://drive.google.com/uc?id=1ptbFKwt-jYs1Dda_IMT5loz0WJS2kyC5"
+        },
+        {
+            "fullName": "Brandon Roulstone",
+            "quotes": "Corne's way of understanding and learning new things is what makes his the epitome of brilliance and genius, his unique way of problem solving and all his ways of thinking is what will make him the most unique and needed asset in the world of software development",
+            "profile": "https://drive.google.com/uc?id=1hj2bjeuOVYyR7e1Y4BGvVctL7wL40n77"
+        },
+        {
+            "fullName": "Tamlin-Leigh Geyer",
+            "quotes": "Corné is a hard-working and diligent individual. He excels when given a task and he is truly exceptional at what he does. Not only is he incredibly helpful but his expertise and dedication to his work are truly commendable. I feel fortunate to have him as both a friend and a colleague.",
+            "profile": "https://drive.google.com/uc?id=1-E6mMAn8yMRNfB2mNov0GLTqnp9Z9ZCz"
+        },
+        {
+            "fullName": "Akeefah Jones",
+            "quotes": "Corné is not only a talented IT professional but also an excellent collaborator and communicator, making him an invaluable asset. I wholeheartedly recommend Corne for any IT project or team, as he brings a level of excellence and dedication that is truly commendable",
+            "profile": "https://drive.google.com/uc?id=1XfOVP9EHWBwVF8bG3AFEsLXd9i5tWd6w"
         }
     ],
     "projects":[
         {
             "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "",
+            "description": "This is a To-Do-List application I created with HTML, CSS & JAVASCRIPT",
+            "image": "https://drive.google.com/uc?id=1m2Tdh91sDyzMzge1QqoiF8xK2m8T3_o0",
             "gitHub": "https://github.com/Kortekz/To-Do-List.git",
+            "netlify": "https://subtle-jalebi-3a2b63.netlify.app/"
+        },
+        {
+            "name": "Netflix Clone",
+            "description": "Majority of this website was made with BOOTSTRAP CSS",
+            "image": "https://drive.google.com/uc?id=1ri-cCD1iYisLTzJXdp2_45plDwEabNf8",
+            "gitHub": "https://github.com/Kortekz/NetflixClone.git",
+            "netlify": "https://n3tflix-cloned.netlify.app/"
+        },
+        {
+            "name": "HTML Ecommerce Website",
+            "description": "This is a Gaming Computer Website that I created using HTML & CSS",
+            "image": "https://drive.google.com/uc?id=1D6Ge0QpXysbr_3fdYmDShXc1_KAj_yPI",
+            "gitHub": "https://github.com/Kortekz/Ecommerce.git",
             "netlify": "https://corne-to-do-list.netlify.app"
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my attempt at a Calculator application using HTML & CSS",
+            "image": "https://drive.google.com/uc?id=1MaLpLCkIhdkvD2CbDgfuT6QIlA2HyChl",
+            "gitHub": "https://github.com/Kortekz/CalculatorApp.git",
+            "netlify": "https://calculat0r-applicati0n.netlify.app/"
+        },
+        {
+            "name": "JS Ecommerce Website",
+            "description": "This is an Ecommerce website. I created this website with JavaScript, HTML & CSS",
+            "image": "https://drive.google.com/uc?id=1jhdEdYkofjnRx2swPJtIdVjsb0JGanXw",
+            "gitHub": "https://github.com/Kortekz/JSEOMP.git",
+            "netlify": "https://jseomp-corne.netlify.app/"
+        },
+        {
+            "name": "Colour Conversion Application",
+            "description": "This is a keyboard application that I created using HTML & CSS",
+            "image": "https://drive.google.com/uc?id=1SPSB82Ut75FnG4aXV6cBxd8JH1vuUf-Y",
+            "gitHub": "https://github.com/Kortekz/hexToRgb.git",
+            "netlify": "https://c0l0r-conversion.netlify.app/"
         }
     ]
 }
