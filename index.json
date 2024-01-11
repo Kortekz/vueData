@@ -97,8 +97,8 @@
     ],
     "projects":[
         {
-            "project-title":"Projects",
-            "project-description":"This is a few of the Projects & Applications I have Developed"
+            "projectTitle":"Projects",
+            "projectDescription":"This is a few of the Projects & Applications I have Developed"
         },
         {
             "name": "To-do List",
