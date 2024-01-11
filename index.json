@@ -103,7 +103,7 @@
         {
             "name": "To-do List",
             "description": "This is a To-Do-List application I created with HTML, CSS & JAVASCRIPT",
-            "image": "https://i.imgur.com/hOPfAT8.png",
+            "image": "https://i.imgur.com/v4cU6hb.png",
             "gitHub": "https://github.com/Kortekz/To-Do-List.git",
             "netlify": "https://subtle-jalebi-3a2b63.netlify.app/"
         },
@@ -138,7 +138,7 @@
         {
             "name": "Colour Conversion Application",
             "description": "This is a keyboard application that I created using HTML & CSS",
-            "image": "https://i.imgur.com/JjFFuzQ.png",
+            "image": "https://i.imgur.com/Ouy6bxE.png",
             "gitHub": "https://github.com/Kortekz/hexToRgb.git",
             "netlify": "https://c0l0r-conversion.netlify.app/"
         }
