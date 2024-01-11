@@ -104,9 +104,20 @@
     ],
     "projects":[
         {
+            "projectTitle":"Projects",
+            "projectDescription":"This is a few of the Projects & Applications I have Developed"
+        },
+        {
+            "name": "JS Ecommerce Website",
+            "description": "This is an Ecommerce website. I created this website with JavaScript, HTML & CSS",
+            "image": "https://i.imgur.com/uqfkSmD.png",
+            "gitHub": "https://github.com/Kortekz/JSEOMP.git",
+            "netlify": "https://jseomp-corne.netlify.app/"
+        },
+        {
             "name": "To-do List",
             "description": "This is a To-Do-List application I created with HTML, CSS & JAVASCRIPT",
-            "image": "https://i.imgur.com/hOPfAT8.png",
+            "image": "https://i.imgur.com/v4cU6hb.png",
             "gitHub": "https://github.com/Kortekz/To-Do-List.git",
             "netlify": "https://subtle-jalebi-3a2b63.netlify.app/"
         },
@@ -117,13 +128,7 @@
             "gitHub": "https://github.com/Kortekz/NetflixClone.git",
             "netlify": "https://n3tflix-cloned.netlify.app/"
         },
-        {
-            "name": "HTML Ecommerce Website",
-            "description": "This is a Gaming Computer Website that I created using HTML & CSS",
-            "image": "https://i.imgur.com/IFZvWXr.png",
-            "gitHub": "https://github.com/Kortekz/Ecommerce.git",
-            "netlify": "https://corne-to-do-list.netlify.app"
-        },
+        
         {
             "name": "Calculator",
             "description": "This is my attempt at a Calculator application using HTML & CSS",
@@ -132,18 +137,18 @@
             "netlify": "https://calculat0r-applicati0n.netlify.app/"
         },
         {
-            "name": "JS Ecommerce Website",
-            "description": "This is an Ecommerce website. I created this website with JavaScript, HTML & CSS",
-            "image": "https://i.imgur.com/uqfkSmD.png",
-            "gitHub": "https://github.com/Kortekz/JSEOMP.git",
-            "netlify": "https://jseomp-corne.netlify.app/"
-        },
-        {
             "name": "Colour Conversion Application",
             "description": "This is a keyboard application that I created using HTML & CSS",
-            "image": "https://i.imgur.com/JjFFuzQ.png",
+            "image": "https://i.imgur.com/Ouy6bxE.png",
             "gitHub": "https://github.com/Kortekz/hexToRgb.git",
             "netlify": "https://c0l0r-conversion.netlify.app/"
+        },
+        {
+            "name": "HTML Ecommerce Website",
+            "description": "This is a Gaming Computer Website that I created using HTML & CSS",
+            "image": "https://i.imgur.com/IFZvWXr.png",
+            "gitHub": "https://github.com/Kortekz/Ecommerce.git",
+            "netlify": "https://corne-to-do-list.netlify.app"
         }
     ]
 }
