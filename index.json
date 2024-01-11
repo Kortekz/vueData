@@ -95,10 +95,11 @@
             "profile": "https://i.imgur.com/BFie4af.jpg"
         }
     ],
-    "projects": {
-        "title": "Projects",
-        "description": "This is a few of the Projects & Applications that I have Developed",
-        "list": [
+    "projects":[
+        {
+            "project-title":"Projects",
+            "project-description":"This is a few of the Projects & Applications I have Developed"
+        },
         {
             "name": "To-do List",
             "description": "This is a To-Do-List application I created with HTML, CSS & JAVASCRIPT",
@@ -142,5 +143,4 @@
             "netlify": "https://c0l0r-conversion.netlify.app/"
         }
     ]
-}
 }
