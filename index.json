@@ -97,6 +97,10 @@
     ],
     "projects":[
         {
+            "project-title":"Projects",
+            "project-description":"This is a few of the Projects & Applications I have Developed"
+        },
+        {
             "name": "To-do List",
             "description": "This is a To-Do-List application I created with HTML, CSS & JAVASCRIPT",
             "image": "https://i.imgur.com/hOPfAT8.png",
