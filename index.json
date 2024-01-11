@@ -33,6 +33,13 @@
         }
 
     ],
+    "workExperience": [
+        {
+            "year" : "2022",
+            "occupation" : "Graphic Designer",
+            "description" : "I was a Graphic Designer for Cape Peninsula University of Technology as part of my Work Intergrated Learning."
+        }
+    ],
     "skills": [
         {
             "title": "HTML",
