@@ -8,11 +8,14 @@
             
         }
     ],
+    "image" : [
+        {
+            "corne" : "https://i.imgur.com/HjG76CP.jpg"
+        }
+    ],
     
     "education": [
-        {
-            "imageMe" : "https://i.imgur.com/HjG76CP.jpg"
-        },
+       
         {
             "id": 1,
             "year": 2019,
