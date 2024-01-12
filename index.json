@@ -48,10 +48,13 @@
     ],
     "download":[
         {
-            "head": "Download My Resume Below!",
+            "head": "Download My Resume Below!"
+        },
+        {
             "down": "Download",
             "link": "https://moccasin-valencia-84.tiiny.site/"
         }
+    
     ],
     "workExperience": [
         {
