@@ -19,21 +19,21 @@
         {
             "id": 1,
             "year": 2019,
-            "description": "Graduated Higher Certificate in IT",
+            "description": "Graduated Higher Certificate in ICT",
             "place": "Cape Peninsula University of Technology",
             "type": "Higher Certificate"
         },
         {
             "id": 2,
             "year": 2020,
-            "description": "Graduated Diploma in IT",
+            "description": "Graduated Diploma in ICT: Multimedia Applications",
             "place": "Cape Peninsula University of Technology",
             "type": "Diploma"
         },
         {
             "id": 3,
             "year": 2023,
-            "description": "Advanced Diploma in IT",
+            "description": "Advanced Diploma in ICT: Multimedia Applications",
             "place": "Cape Peninsula University of Technology",
             "type": "Advanced Diploma"
         }
@@ -44,6 +44,13 @@
             "address": "Cape Town",
             "phone" : "061 027 8132",
             "email": "cornebalie789@gmail.com"
+        }
+    ],
+    "download":[
+        {
+            "head": "Download My Resume Belowgi!",
+            "down": "Download",
+            "link": "https://moccasin-valencia-84.tiiny.site/"
         }
     ],
     "workExperience": [
