@@ -39,20 +39,13 @@
         }
 
     ],
-    "contact": [
+    "contact":[
         {
-          "type": "address",
-          "value": "Cape Town"
-        },
-        {
-          "type": "phone",
-          "value": "061 027 8132"
-        },
-        {
-          "type": "email",
-          "value": "cornebalie789@gmail.com"
+            "address": "Cape Town",
+            "phone" : "061 027 8132",
+            "email": "cornebalie789@gmail.com"
         }
-      ],
+    ],
     "download":[
         {
             "head": "Download My Resume Belowgi!",
