@@ -51,7 +51,13 @@
             "year" : "2022",
             "occupation" : "Graphic Designer",
             "description" : "I was a Graphic Designer for Cape Peninsula University of Technology as part of my Work Intergrated Learning."
+        },
+        {
+            "year" : "2023",
+            "occupation" : "DigiSail",
+            "description" : "Group of friends and Developers that creates websites for small businesses."
         }
+
     ],
     "skills": [
         {
