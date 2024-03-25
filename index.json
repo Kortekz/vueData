@@ -137,6 +137,13 @@
             "projectDescription":"This is a few of the Projects & Applications I have Developed"
         },
         {
+            "name": "Venture Vibe",
+            "description": "This is an Eccomerce/Booking website That I created with Vue",
+            "image": "https://i.imgur.com/J2NlczE.png",
+            "gitHub": "https://github.com/Kortekz/VentureVibe-capstone",
+            "netlify": "https://venturevibe-7fd9a.web.app"
+        },
+        {
             "name": "JS Ecommerce Website",
             "description": "This is an Ecommerce website. I created this website with JavaScript, HTML & CSS",
             "image": "https://i.imgur.com/uqfkSmD.png",
@@ -164,13 +171,6 @@
             "image": "https://i.imgur.com/iGr91TC.png",
             "gitHub": "https://github.com/Kortekz/CalculatorApp.git",
             "netlify": "https://calculat0r-applicati0n.netlify.app/"
-        },
-        {
-            "name": "Colour Conversion Application",
-            "description": "This is a keyboard application that I created using HTML & CSS",
-            "image": "https://i.imgur.com/Ouy6bxE.png",
-            "gitHub": "https://github.com/Kortekz/hexToRgb.git",
-            "netlify": "https://c0l0r-conversion.netlify.app/"
         },
         {
             "name": "HTML Ecommerce Website",
