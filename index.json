@@ -102,9 +102,9 @@
             "experience": "I used NodeJs with MongoDB to create a JSON token appliication as an Assignment."
         }
     ],
-    "Peer Reviews": [
+    "testimonials": [
         {
-            "title": "Testimonials",
+            "title": "Peer Reviews",
             "description": "See what others say about me!"
         },
         {
