@@ -65,6 +65,11 @@
     ],
     "workExperience": [
         {
+            "year" : "2024",
+            "occupation" : "Intern",
+            "description" : "LC Studio"
+        },
+        {
             "year" : "2023",
             "occupation" : "Digital Cookies",
             "description" : "I am Part of a team that consists of Developers & Designers that creates websites for small businesses. We also offer Rebranding to help Small Businesses in advertising to reach their target audience."
