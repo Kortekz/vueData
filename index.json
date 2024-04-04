@@ -18,7 +18,7 @@
        
         {
             "id": 1,
-            "year": "2023 - Present",
+            "year": "September 2023 - March 2024",
             "description": "Coding BootCamp",
             "place": "Life Choices Coding Academy",
             "type": "Certificate"
@@ -65,7 +65,7 @@
     ],
     "workExperience": [
         {
-            "year": "2024",
+            "year": "April 2024 - Present",
             "occupation": "Intern at LC Studio",
             "description": "I joined LC Studio as an Intern after completing the coding bootcamp and passing my capstone project with 98%"
         },        
