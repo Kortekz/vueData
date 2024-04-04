@@ -65,10 +65,10 @@
     ],
     "workExperience": [
         {
-            "year" : "2024",
-            "occupation" : "Intern",
-            "description" : "LC Studio"
-        },
+            "year": "2024",
+            "occupation": "Intern at LC Studio",
+            "description": "I joined LC Studio as an Intern after completing the coding bootcamp and passing my capstone project with 98%"
+        },        
         {
             "year" : "2023",
             "occupation" : "Digital Cookies",
