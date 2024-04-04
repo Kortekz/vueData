@@ -156,6 +156,13 @@
             "netlify": "https://venturevibe-7fd9a.web.app"
         },
         {
+            "name": "Kittleys Ecommerce Website",
+            "description": "This is a Health Website that I created in Collaboration with a Parter using VueJS",
+            "image": "https://i.imgur.com/Adz7I49.png",
+            "gitHub": "https://github.com/Kortekz/Node-Eomp-A-C",
+            "netlify": "https://nodeeomp-ac.web.app/#/"
+        },
+        {
             "name": "JS Ecommerce Website",
             "description": "This is an Ecommerce website. I created this website with JavaScript, HTML & CSS",
             "image": "https://i.imgur.com/uqfkSmD.png",
@@ -176,20 +183,12 @@
             "gitHub": "https://github.com/Kortekz/NetflixClone.git",
             "netlify": "https://n3tflix-cloned.netlify.app/"
         },
-        
         {
             "name": "Calculator",
             "description": "This is my attempt at a Calculator application using HTML & CSS",
             "image": "https://i.imgur.com/iGr91TC.png",
             "gitHub": "https://github.com/Kortekz/CalculatorApp.git",
             "netlify": "https://calculat0r-applicati0n.netlify.app/"
-        },
-        {
-            "name": "HTML Ecommerce Website",
-            "description": "This is a Gaming Computer Website that I created using HTML & CSS",
-            "image": "https://i.imgur.com/IFZvWXr.png",
-            "gitHub": "https://github.com/Kortekz/Ecommerce.git",
-            "netlify": "https://ec0mmerce1.netlify.app/"
         }
     ]
 }
