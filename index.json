@@ -81,6 +81,7 @@
         }
 
     ],
+    
     "skills": [
         {
             "title": "HTML",
@@ -107,6 +108,18 @@
             "experience": "I used NodeJs with MongoDB to create a JSON token appliication as an Assignment."
         }
     ],
+
+    "badges": [
+        {
+            "title": "Cisco Network Academy - Operating Systems Basics",
+            "image": "https://i.imgur.com/gPEKvUL.png"
+        },
+        {
+            "title": "SCRUM Badge",
+            "image": "https://i.imgur.com/7RstZhz.png"
+        }
+    ],
+
     "testimonials": [
         {
             "title": "Peer Reviews",
