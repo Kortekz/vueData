@@ -112,11 +112,13 @@
     "badges": [
         {
             "title": "Cisco Network Academy - Operating Systems Basics",
-            "image": "https://i.imgur.com/gPEKvUL.png"
+            "image": "https://i.imgur.com/gPEKvUL.png",
+            "description": "During my Cybersecurity Learning Journey, I obtained a badge after the completion of the Module."
         },
         {
             "title": "SCRUM Badge",
-            "image": "https://i.imgur.com/7RstZhz.png"
+            "image": "https://i.imgur.com/7RstZhz.png",
+            "description": "The team I was a part of won Best Business Idea for our Ghost Kitchen proposal. We demonstrated a thorough understanding of SCRUM thinking that culmintaed in an innovative business concept and market entry point"
         }
     ],
 
