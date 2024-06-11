@@ -169,6 +169,13 @@
             "netlify": "https://venturevibe-7fd9a.web.app"
         },
         {
+            "name": "Netflix Clone",
+            "description": "Majority of this website was made with BOOTSTRAP CSS",
+            "image": "https://i.imgur.com/GmVnkii.png",
+            "gitHub": "https://github.com/Kortekz/NetflixClone.git",
+            "netlify": "https://n3tflix-cloned.netlify.app/"
+        },
+        {
             "name": "Kittleys Ecommerce Website",
             "description": "This is a Health Website that I created in Collaboration with a Parter using VueJS",
             "image": "https://i.imgur.com/Adz7I49.png",
@@ -189,13 +196,7 @@
             "gitHub": "https://github.com/Kortekz/To-Do-List.git",
             "netlify": "https://subtle-jalebi-3a2b63.netlify.app/"
         },
-        {
-            "name": "Netflix Clone",
-            "description": "Majority of this website was made with BOOTSTRAP CSS",
-            "image": "https://i.imgur.com/GmVnkii.png",
-            "gitHub": "https://github.com/Kortekz/NetflixClone.git",
-            "netlify": "https://n3tflix-cloned.netlify.app/"
-        },
+        
         {
             "name": "Calculator",
             "description": "This is my attempt at a Calculator application using HTML & CSS",
