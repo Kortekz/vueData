@@ -111,15 +111,26 @@
 
     "badges": [
         {
+            "title": "SCRUM Badge",
+            "image": "https://i.imgur.com/7RstZhz.png",
+            "description": "The team I was a part of won Best Business Idea for our Ghost Kitchen proposal. We demonstrated a thorough understanding of SCRUM thinking that culminated in an innovative business concept and market entry point"
+        },
+        {
             "title": "Cisco Network Academy - Operating Systems Basics",
             "image": "https://i.imgur.com/gPEKvUL.png",
             "description": "During my Cybersecurity Learning Journey, I obtained a badge after the completion of the Module."
         },
         {
-            "title": "SCRUM Badge",
-            "image": "https://i.imgur.com/7RstZhz.png",
-            "description": "The team I was a part of won Best Business Idea for our Ghost Kitchen proposal. We demonstrated a thorough understanding of SCRUM thinking that culminated in an innovative business concept and market entry point"
+            "title": "Junior Cybersecurity Analyst",
+            "image": "https://i.imgur.com/OozvXzO.png",
+            "description": "Earned this badge by demonstrating foundational knowledge and skills in cybersecurity, covering areas such as threat analysis and vulnerability assessment."
+        },
+        {
+            "title": "Ethical Hacker",
+            "image": "https://i.imgur.com/WApRRRk.png",
+            "description": "Awarded for successfully completing training in ethical hacking techniques, focusing on identifying and mitigating security threats."
         }
+        
     ],
 
     "testimonials": [
